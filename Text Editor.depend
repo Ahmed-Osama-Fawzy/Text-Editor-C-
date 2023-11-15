@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1652713524 source:c:\users\star top\desktop\text_ediotr\text editor\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cctype>
+	<string>
+	<sstream>
+	<iterator>
+	<cstring>
+	<ctype.h>
+	"Save.h"
+	"AppendText.h"
+
+1652713592 c:\users\star top\desktop\text_ediotr\text editor\save.h
+
+1652713592 c:\users\star top\desktop\text_ediotr\text editor\appendtext.h
+
